@@ -5,7 +5,7 @@ The code is being prepared and we will upload the source code once completed.
 [SiamBC: Context-Related Siamese Network for Visual Object Tracking](https://doi.org/10.1109/access.2022.3192466)
 
 <p align="center">
-  <img width="85%" src="https://github.com/Soarkey/SiamBC/blob/main/assets/arch.png" alt="SiamBC"/>
+  <img width="85%" src="https://github.com/Soarkey/SiamBC/blob/master/assets/arch.png" alt="SiamBC"/>
 </p>
 
 # Abstract
