@@ -16,7 +16,7 @@ PySide2==5.15.2.1
 PyYAML==6.0
 ray==2.0.0
 scipy==1.6.3
-setuptools==59.4.0
+setuptools==65.5.1
 Shapely==1.8.1.post1
 six
 thop
